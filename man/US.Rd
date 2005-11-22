@@ -34,7 +34,7 @@ draws outline.
 }
 }
 \details{
-This function uses the FIELDS dataset US.dat for the coordinates.   
+This function uses the Rlab dataset US.dat for the coordinates.   
 }
 \seealso{
 world

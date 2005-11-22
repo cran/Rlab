@@ -31,7 +31,7 @@ from -180 to 180.}
     function that draws the outline.}
 }
 \details{
-This function uses the FIELDS dataset world.dat for the coordinates. The 
+This function uses the Rlab dataset world.dat for the coordinates. The 
 main advantage of this function is that it is fast and easy to modify. 
 The shift option to center over the dateline is useful because often 
 plots of ocean and atmosphere information center the map this way. 

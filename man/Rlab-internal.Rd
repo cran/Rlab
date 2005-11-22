@@ -11,9 +11,9 @@
 \alias{random.walk}
 \alias{read.data}
 \alias{set.panel}
-\alias{simulate.reg}
-\alias{simulate.samples}
-\alias{simulate.sums}
+\alias{simulatereg}
+\alias{simulatesamples}
+\alias{simulatesums}
 \alias{write.data}
 \alias{ex}
 \alias{airplane.ex}
@@ -50,7 +50,6 @@
 \alias{viscosity.ex}
 \alias{weib.ex}
 \alias{bplot.obj}
-\alias{bplot.old}
 \alias{describe.bplot}
 \alias{draw.bplot}
 \alias{draw.bplot.obj}
