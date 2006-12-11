@@ -1,10 +1,20 @@
-"xline" <-
-function(x, ...)
-
-{
-
-	abline(v = x, ...)
-
-	invisible()
-
-}
+"xline" <-
+
+function(x, ...)
+
+
+
+{
+
+
+
+	abline(v = x, ...)
+
+
+
+	invisible()
+
+
+
+}
+
