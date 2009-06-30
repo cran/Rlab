@@ -8,8 +8,7 @@ Histogram allowing forced number of bins
 Plots a histogram in the same manner as \code{hist}, but with the following changes:
 \code{freq = FALSE} by default, to print the density instead of the frequency and
 \code{nclass} specifies the exact number of bins to use (calculated by
-equally seperating the distance between the min and max value to be graphed)
-}
+equally separating the distance between the min and max value to be graphed)
 }
 \usage{
 hplot(x, breaks = "Sturges", freq = FALSE, nclass = NULL, col = 8, ...) 

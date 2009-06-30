@@ -52,7 +52,7 @@ function(x, ylab = "Quantiles of Standard Normal", xlab = deparse(
 
 
 
-		y <- qhnorm((rank(x) - 0.5)/n)
+		y <- qnorm((rank(x) - 0.5)/n)
 
 
 

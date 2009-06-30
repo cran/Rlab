@@ -15,7 +15,6 @@ data set to be viewed; can be data.frame, matrix, list or vector.}
 \item{maxlines}{
 maximum number of rows to be displayed.}
 }
-}
 \details{
 If the data set contains more rows than maxlines, then a message indicating the number
 unviewed rows id displayed.
