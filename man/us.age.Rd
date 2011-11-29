@@ -1,7 +1,5 @@
 \name{us.age}
 
-\docType{data}
-
 \alias{us.age}
 
 \title{American age data}

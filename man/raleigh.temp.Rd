@@ -1,5 +1,4 @@
 \name{raleigh.temp}
-\docType{data}
 \alias{raleigh.temp}
 \title{
 Average monthly temperatures, 1949-1988.

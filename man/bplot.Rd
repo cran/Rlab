@@ -1,5 +1,4 @@
 \name{bplot}
-\docType{function}
 \alias{bplot}
 \title{
 boxplot 

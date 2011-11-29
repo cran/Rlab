@@ -1,7 +1,5 @@
 \name{ping}
 
-\docType{data}
-
 \alias{ping}
 
 \title{Internet ping times}

@@ -1,9 +1,6 @@
 \name{actuator}
-\docType{data}
 \alias{actuator}
-\title{
-Actuator force experiment
-}
+\title{Actuator force experiment}
 \description{
 Small propulsion units, called actuators, are used to maneuver space craft once they are in space.
 In order to control these motions accurately, the actuator needs to produce a precise amount of force.

@@ -1,5 +1,4 @@
 \name{college}
-\docType{data}
 \alias{college}
 \title{
 Statistics on colleges in 15 states.

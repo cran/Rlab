@@ -1,5 +1,4 @@
 \name{count}
-\docType{function}
 \alias{count}
 \title{
 Counts elements which meet specified conditions 

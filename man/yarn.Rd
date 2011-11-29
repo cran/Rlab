@@ -1,7 +1,5 @@
 \name{yarn}
 
-\docType{data}
-
 \alias{yarn}
 
 \title{Yarn tensile strength experiment}

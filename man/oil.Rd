@@ -1,6 +1,5 @@
 \name{oil}
 \alias{oil}
-\docType{data}
 \title{
 Synthetic versus Conventional Oil
 }

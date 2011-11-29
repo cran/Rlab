@@ -1,5 +1,4 @@
 \name{means}
-\docType{function}
 \alias{means}
 \title{
 Computes one-way and two-way means tables}

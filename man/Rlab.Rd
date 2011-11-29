@@ -1,5 +1,4 @@
 \name{Rlab}
-\docType{data}
 \alias{Rlab}
 \title{
 Rlab - functions and datasets for ST370 at North Carolina State University 

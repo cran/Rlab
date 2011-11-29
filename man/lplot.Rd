@@ -1,5 +1,4 @@
 \name{lplot}
-\docType{function}
 \alias{lplot}
 \title{
 Label plot}

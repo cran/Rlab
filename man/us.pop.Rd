@@ -1,7 +1,5 @@
 \name{us.pop}
 
-\docType{data}
-
 \alias{us.pop}
 
 \title{American population data}

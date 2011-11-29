@@ -1,7 +1,4 @@
 \name{ftptime}
-
-\docType{data}
-
 \alias{ftptime}
 
 \title{Forty FTP times}

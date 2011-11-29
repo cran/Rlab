@@ -1,6 +1,5 @@
 \name{randomdata}
 \alias{randomdata}
-\docType{data}
 \title{
 Random data used in Lab 6
 }

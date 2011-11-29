@@ -1,7 +1,5 @@
 \name{yarnred}
 
-\docType{data}
-
 \alias{yarnred}
 
 \title{Yarn tensile strength experiment - averaged measurements}

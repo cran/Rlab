@@ -1,7 +1,5 @@
 \name{quake}
 
-\docType{data}
-
 \alias{quake}
 
 \title{

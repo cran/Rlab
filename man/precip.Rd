@@ -1,7 +1,5 @@
 \name{precip}
 
-\docType{data}
-
 \alias{precip}
 
 \title{

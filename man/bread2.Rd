@@ -1,5 +1,4 @@
 \name{bread2}
-\docType{data}
 \alias{bread2}
 \title{Bread rising experiment}
 \description{

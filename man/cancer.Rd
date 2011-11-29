@@ -1,5 +1,4 @@
 \name{cancer}
-\docType{data}
 \alias{cancer}
 \title{Cigarette smoking and mortality}
 \description{

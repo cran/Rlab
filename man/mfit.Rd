@@ -1,5 +1,4 @@
 \name{mfit}
-\docType{function}
 \alias{mfit}
 \title{
 Computes main and interaction fitted effects}

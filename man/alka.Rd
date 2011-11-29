@@ -1,5 +1,4 @@
 \name{alka}
-\docType{data}
 \alias{alka}
 \title{Alka-Seltzer dissoloving times}
 \description{

@@ -1,5 +1,4 @@
 \name{airplane}
-\docType{data}
 \alias{airplane}
 \title{
 Distances flown by paper airplanes in an experiment with four

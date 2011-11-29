@@ -1,7 +1,5 @@
 \name{raleigh.snow}
 
-\docType{data}
-
 \alias{raleigh.snow}
 
 \title{Annual snowfall in Raleigh, NC}

@@ -1,5 +1,4 @@
 \name{marathon}
-\docType{data}
 \alias{marathon}
 \title{
 Winning times from New York City marathon}

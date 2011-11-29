@@ -1,5 +1,4 @@
 \name{hplot}
-\docType{function}
 \alias{hplot}
 \title{
 Histogram allowing forced number of bins

@@ -2,8 +2,6 @@
 
 \alias{golf}
 
-\docType{data}
-
 \title{Golf performance data}
 
 \description{

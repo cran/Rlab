@@ -1,7 +1,5 @@
 \name{salt}
 
-\docType{data}
-
 \alias{salt}
 
 \title{The effect of salt on ice melting}

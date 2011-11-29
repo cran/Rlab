@@ -1,7 +1,5 @@
 \name{wire}
 
-\docType{data}
-
 \alias{wire}
 
 \title{Wire resistance experiment}

@@ -1,7 +1,5 @@
 \name{solar}
 
-\docType{data}
-
 \alias{solar}
 
 \title{

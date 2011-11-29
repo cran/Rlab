@@ -1,5 +1,4 @@
 \name{stats}
-\docType{function}
 \alias{stats}
 \title{
 Calculate summary statistics 

@@ -1,5 +1,4 @@
 \name{ncsu}
-\docType{data}
 \alias{ncsu}
 \title{
 Number of degrees granted at ncsu by year.

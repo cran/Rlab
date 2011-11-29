@@ -1,5 +1,4 @@
 \name{ls.rlab}
-\docType{function}
 \alias{ls.rlab}
 \alias{ls.summary.rlab}
 \title{

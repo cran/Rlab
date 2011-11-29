@@ -1,7 +1,5 @@
 \name{vocab}
 
-\docType{data}
-
 \alias{vocab}
 
 \title{Children's vocabulary by age}

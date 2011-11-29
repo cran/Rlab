@@ -1,5 +1,4 @@
 \name{mplot}
-\docType{function}
 \alias{mplot}
 \title{
 Plots factor means

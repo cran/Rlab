@@ -1,5 +1,4 @@
 \name{michelson}
-\docType{data}
 \alias{michelson}
 \title{
 Results from Michelson's determination of the velocity of light in air.

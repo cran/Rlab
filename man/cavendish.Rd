@@ -1,5 +1,4 @@
 \name{cavendish}
-\docType{data}
 \alias{cavendish}
 \title{
 Cavendish's 1798 determinations of the density of the earth

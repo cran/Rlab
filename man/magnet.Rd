@@ -1,5 +1,4 @@
 \name{magnet}
-\docType{data}
 \alias{magnet}
 \title{
 Magnetic force of an electomagnet as a function of voltage and number of wire turns.

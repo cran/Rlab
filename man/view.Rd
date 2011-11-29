@@ -1,5 +1,4 @@
 \name{view}
-\docType{function}
 \alias{view}
 \title{
 View first rows of a data set}

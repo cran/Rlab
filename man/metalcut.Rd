@@ -1,7 +1,5 @@
 \name{metalcut}
 
-\docType{data}
-
 \alias{metalcut}
 
 \title{Metal cutting performance}

@@ -1,5 +1,4 @@
 \name{jet}
-\docType{data}
 \alias{jet}
 \title{
 Jet (actuator) force experiment

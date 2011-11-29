@@ -1,5 +1,4 @@
 \name{ozone}
-\docType{data}
 \alias{ozone}
 \title{
 Monthly mean concentrations of ozone.

@@ -1,5 +1,4 @@
 \name{popcorn}
-\docType{data}
 \alias{popcorn}
 \title{
 A 2x4 experiment to evaluate popcorn preparation.

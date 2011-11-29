@@ -1,6 +1,5 @@
 \name{earthq}
 \alias{earthq}
-\docType{data}
 \title{Earthquake data}
 \description{
 The data set \code{earthq} includes the dominant frequency and magnitude of

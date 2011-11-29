@@ -1,7 +1,5 @@
 \name{insulate}
 
-\docType{data}
-
 \alias{insulate}
 
 \title{Effects of house insulation}

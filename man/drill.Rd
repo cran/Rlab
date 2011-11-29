@@ -1,5 +1,4 @@
 \name{drill}
-\docType{data}
 \alias{drill}
 \title{Drill testing results}
 \description{

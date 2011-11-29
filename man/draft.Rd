@@ -1,5 +1,4 @@
 \name{draft}
-\docType{data}
 \alias{draft}
 \title{1970 Vietnam draft lottery summary}
 \description{

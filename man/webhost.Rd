@@ -1,7 +1,5 @@
 \name{webhost}
 
-\docType{data}
-
 \alias{webhost}
 
 \title{Comparison of four different web hosts}

@@ -1,5 +1,4 @@
 \name{climate}
-\docType{data}
 \alias{climate}
 \title{
 Climate and geographical data for 50 of the largest US cities.

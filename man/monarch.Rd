@@ -1,7 +1,5 @@
 \name{monarch}
 
-\docType{data}
-
 \alias{monarch}
 
 \title{Post coronation lifespan}

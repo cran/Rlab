@@ -1,5 +1,4 @@
 \name{viscosity}
-\docType{data}
 \alias{viscosity}
 \title{
 Results from students experiments using water, oil and shampoo.

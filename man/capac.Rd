@@ -1,6 +1,5 @@
 \name{capac}
 \alias{capac}
-\docType{data}
 \title{
 Capacitance of different shaped capacitors.
 }

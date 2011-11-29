@@ -1,8 +1,8 @@
 \name{Rlab internal}
-\docType{data}
 \alias{Rlab.version}
 \alias{cat.to.list}
 \alias{describe}
+\alias{describe2}
 \alias{means.2way}
 \alias{message2}
 \alias{mfit.2way}
@@ -67,6 +67,7 @@ Listed below are the internal and secondary functions and datasets in Rlab.
 
 \code{cat.to.list}
 \code{describe}
+\code{describe2}
 \code{means.2way}
 \code{message2}
 \code{mfit.2way}

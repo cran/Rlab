@@ -1,5 +1,4 @@
 \name{SpGravity}
-\docType{data}
 \alias{SpGravity}
 \title{
 Specific gravity measurements
