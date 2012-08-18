@@ -8,7 +8,7 @@ function(n, prob)
 
 
 
-	.Internal(rbinom(n, 1, prob))
+	rbinom(n,size=1,prob=prob)
 
 	
 

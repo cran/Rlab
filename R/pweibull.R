@@ -24,7 +24,7 @@ function (q, shape = 1, scale = 1, alpha = shape, beta = scale, lower.tail=TRUE,
 
 
 
-    .Internal(pweibull(q, alpha, beta, lower.tail, log.p))
+     stats:::pweibull(q,shape=alpha,scale=beta,lower.tail=lower.tail,log.p=log.p)
 
 
 

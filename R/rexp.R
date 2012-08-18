@@ -16,7 +16,7 @@ function(n, rate = 1, beta = 1/rate)
 
 
 
-	.Internal(rexp(n, beta))
+	 stats:::rexp(n,rate=1/beta)
 
 	
 

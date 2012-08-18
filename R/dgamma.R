@@ -24,7 +24,7 @@ function (x, shape = 1, rate = 1, scale = 1/rate, alpha = shape, beta = scale, l
 
 
 
-    .Internal(dgamma(x, alpha, beta, log))
+     stats:::dgamma(x,shape=alpha,scale=beta,log=log)
 
 
 

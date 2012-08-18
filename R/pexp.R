@@ -16,7 +16,7 @@ function(q, rate = 1, beta = 1/rate,  lower.tail = TRUE, log.p = FALSE)
 
 
 
-	.Internal(pexp(q, beta, lower.tail, log.p))
+	 stats:::pexp(q,rate=1/beta,lower.tail=lower.tail,log.p=log.p)
 
 	
 

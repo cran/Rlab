@@ -8,7 +8,7 @@ function(x, prob, log = FALSE)
 
 
 
-	.Internal(dbinom(x, 1, prob, log))
+	dbinom(x,size=1,prob=prob,log=log)
 
 	
 

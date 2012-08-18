@@ -24,7 +24,7 @@ function (n, shape = 1, scale = 1, alpha = shape, beta = scale)
 
 
 
-    .Internal(rweibull(n, alpha, beta))
+     stats:::rweibull(n,shape=alpha,scale=beta)
 
 
 

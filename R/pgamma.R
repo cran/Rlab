@@ -24,7 +24,7 @@ function (q, shape = 1, rate = 1, scale = 1/rate, alpha = shape, beta = scale, l
 
 
 
-    .Internal(pgamma(q, alpha, beta, lower.tail, log.p))
+     stats:::pgamma(q,shape=alpha,scale=beta,lower.tail=lower.tail,log.p=log.p)
 
 
 

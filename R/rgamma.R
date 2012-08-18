@@ -24,7 +24,7 @@ function (n, shape = 1, rate = 1, scale = 1/rate, alpha = shape, beta = scale)
 
 
 
-    .Internal(rgamma(n, alpha, beta))
+     stats:::rgamma(n,shape=alpha,scale=beta)
 
 
 

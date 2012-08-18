@@ -24,7 +24,7 @@ function (x, shape = 1, scale = 1, alpha = shape, beta = scale, log = FALSE)
 
 
 
-    .Internal(dweibull(x, alpha, beta, log))
+     stats:::dweibull(x,shape=alpha,scale=beta,log=log)
 
 
 
