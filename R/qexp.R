@@ -16,7 +16,7 @@ function(p, rate = 1, beta = 1/rate,  lower.tail = TRUE, log.p = FALSE)
 
 
 
-stats:::qexp(p,rate=1/beta,lower.tail=lower.tail,log.p=log.p)
+stats::qexp(p,rate=1/beta,lower.tail=lower.tail,log.p=log.p)
 
 	
 

@@ -16,7 +16,7 @@ function(n, rate = 1, beta = 1/rate)
 
 
 
-	 stats:::rexp(n,rate=1/beta)
+	 stats::rexp(n,rate=1/beta)
 
 	
 

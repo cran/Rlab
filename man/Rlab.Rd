@@ -1,14 +1,14 @@
 \name{Rlab}
 \alias{Rlab}
 \title{
-Rlab - functions and datasets for ST370 at North Carolina State University 
+Rlab - Functions and Datasets for ST 370 at North Carolina State University 
 }
 \description{
 Rlab is a collection of functions and datasets to be used
-in the class ST370-Probability and Statistics for Engineers
+in the class ST 370, Probability and Statistics for Engineers,
 at North Carolina State University.  For more information see
 the class labs at:
-\url{http://www.courses.ncsu.edu/ST370/distance/rlab/rlab.html}
+\url{https://www4.stat.ncsu.edu/~bmasmith/NewST370WEB/rlab/rlab.html}
 
 Some major methods include:
 \itemize{

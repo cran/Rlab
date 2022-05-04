@@ -16,7 +16,7 @@ function(x, rate = 1, beta = 1/rate, log = FALSE)
 
 
 
-	 stats:::dexp(x,rate=1/beta,log=log)
+	 stats::dexp(x,rate=1/beta,log=log)
 
 	
 

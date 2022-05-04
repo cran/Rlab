@@ -21,10 +21,8 @@ Any ploting options for abline.
  xline, abline 
 }
 \examples{
-world( col=3)
-yline( seq( -80,80,10),col=4, lty=2)
-xline( seq( -180,180,10),col=4,lty=2)
-yline( 0, lwd=2, col=4)
+plot( 1:10)
+yline( 4.0, col=3)
 }
 \keyword{aplot}
 % docclass is function
